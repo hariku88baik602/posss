@@ -1,4 +1,4 @@
-name: poss1-hun
+name: hm201-205-hun
 on:  
   push:
   pull_request:
@@ -53,3 +53,19 @@ jobs:
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_qvOsV3CwwQ2u8MjIx9EBMsGKO727/nHMYuHtBNh
       - name: Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_qvOsV3CwwQ2u8MjIx9EBMsGKO727/nHMYuHtBNh
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_4m0Ha2E4NKsM81aEWEpXrg1EvWFo/vAR7YSRgfW
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_4m0Ha2E4NKsM81aEWEpXrg1EvWFo/vAR7YSRgfW
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_rrUu0kHIyCOxzKl26EH6d01PPPZd/Dri7JEo0WE
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_rrUu0kHIyCOxzKl26EH6d01PPPZd/Dri7JEo0WE
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_egRVJc1uvGU3Qyr50ZS1SoHWzt12/9Nk3lHgAfp
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_egRVJc1uvGU3Qyr50ZS1SoHWzt12/9Nk3lHgAfp
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_rrUu0kHIyCOxzKl26EH6d01PPPZd/Dri7JEo0WE
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_rrUu0kHIyCOxzKl26EH6d01PPPZd/Dri7JEo0WE
